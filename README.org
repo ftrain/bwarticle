@@ -1,4 +1,1 @@
-bwarticle
-=========
-
-An article for BW
+#+TITLE ARTICLE TITLE
